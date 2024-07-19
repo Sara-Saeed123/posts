@@ -1,0 +1,43 @@
+body{
+    background-image: url(back.jpg.jpg);
+   color: rgb(216, 110, 127);
+   font-style: oblique;
+   
+   
+   
+}
+.alpha{
+    color: rgb(255, 0, 144);
+    /*background-color:rgb(189, 189, 239) ;*/
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: oblique;
+  margin-top: 160px;
+   border: none;
+   padding: 50px;
+   
+   
+
+}
+ .a{
+    
+   
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 60px;  
+   border: none;
+  
+}
+
+div  {
+    
+    border: double 5px rgb(237, 99, 149);
+    border-radius: 10px;
+    padding: 15px;
+
+   
+}
